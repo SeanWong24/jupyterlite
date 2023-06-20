@@ -1,0 +1,4 @@
+jupyterlite-pyodide-kernel
+jupyterlite-xeus-python
+
+jupyterlab-filesystem-access
